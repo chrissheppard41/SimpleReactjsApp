@@ -1,4 +1,6 @@
-# This a very simple ReactJS component that has a simple 2 page route. One displays the index page and the other has a ajax call using jquery
+# Introduction
+
+This a very simple ReactJS component that has a simple 2 page route. One displays the index page and the other has a ajax call using jquery
 
 ## Requirements
 
