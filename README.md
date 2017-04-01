@@ -1,3 +1,20 @@
+# This a very simple ReactJS component that has a simple 2 page route. One displays the index page and the other has a ajax call using jquery
+
+## Requirements
+
+- `nodejs` installed
+
+## To run
+
+Using a terminal of your choosing, input the following commands
+
+- `npm install` then
+- `npm start`
+
+This will open up your browser, showing the application
+
+## Other Reactjs jargan
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
